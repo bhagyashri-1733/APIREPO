@@ -1,0 +1,37 @@
+{
+    "myData":[
+    {
+        "name":"iphone",
+        "price":154000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"samsung",
+        "price":15400,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":154,
+        "company":"apple"
+    },
+    {
+        "name":"earbuds",
+        "price":1545,
+        "company":"oneplus"
+    },
+    {
+        "name":"mobileCover",
+        "price":150,
+        "company":"apple"
+    },
+    {
+        "name":"sunglasses",
+        "price":300,
+        "company":"reybon"
+    }
+    
+]
+}
